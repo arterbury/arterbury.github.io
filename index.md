@@ -8,3 +8,7 @@ nav_order: 1
 
 ## Relevant Links
 [Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
+
+``` bash
+$ cd /usr/vim
+```
