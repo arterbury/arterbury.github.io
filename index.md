@@ -8,6 +8,7 @@ nav_order: 1
 
 ## Relevant Links
 [Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
+
 [NRK](https://www.nrk.no/)
 
 ```console
