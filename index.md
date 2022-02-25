@@ -11,6 +11,8 @@ nav_order: 1
 
 [NRK](https://www.nrk.no/)
 
+[Klar Tale](https://www.klartale.no/)
+
 ```console
 $ cd /usr/vim
 ```
