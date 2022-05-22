@@ -14,6 +14,8 @@ nav_order: 2
 
 [TechMeme](https://www.techmeme.com/)
 
+[Reuters](https://reuters.com)
+
 
 ## Leisure
 
