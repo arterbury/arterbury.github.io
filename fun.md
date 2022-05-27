@@ -16,6 +16,8 @@ nav_order: 2
 
 [Reuters](https://reuters.com)
 
+[MS Tech Community](https://techcommunity.microsoft.com/)
+
 
 ## Leisure
 
