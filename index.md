@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Main
+title: arterbury - Main
 nav_order: 1
 ---
 
