@@ -25,3 +25,5 @@ nav_order: 2
 
 [Nintendo Life](https://www.nintendolife.com/)
 
+[Pinterest](https://pinterest.com)
+
