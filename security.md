@@ -14,6 +14,8 @@ nav_order: 3
 
 [Dark Reading](https://www.darkreading.com)
 
+[Naked Security](https://nakedsecurity.sophos.com/)
+
 [Microsoft Security Blog](https://www.microsoft.com/security/blog/)
 
 
