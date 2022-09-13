@@ -6,6 +6,8 @@ nav_order: 3
 
 # Security
 
+[The Hacker News](https://thehackernews.com/)
+
 [ThreatPost](https://threatpost.com)
 
 [Hackaday](https://hackaday.com)

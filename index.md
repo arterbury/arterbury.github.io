@@ -1,6 +1,6 @@
 ---
 layout: default
-title: arterbury - Main
+title: Personal Bookmarks
 nav_order: 1
 ---
 
