@@ -12,7 +12,12 @@ nav_order: 3
 
 [Krebs on Secuity](https://krebsonsecurity.com/)
 
+[Dark Reading](https://www.darkreading.com)
+
 [Microsoft Security Blog](https://www.microsoft.com/security/blog/)
+
+
+## Agency
 
 [European Union Agency for Cybersecurity](https://www.enisa.europa.eu/)
 
@@ -22,4 +27,4 @@ nav_order: 3
 
 [CSRC](https://csrc.nist.gov/)
 
-[NIST Seciurity](https://www.nist.gov/cybersecurity)
+[NIST Security](https://www.nist.gov/cybersecurity)
