@@ -4,7 +4,7 @@ title: Security
 nav_order: 3
 ---
 
-# Security
+# Security News
 
 [The Hacker News](https://thehackernews.com/)
 
@@ -21,7 +21,7 @@ nav_order: 3
 [Microsoft Security Blog](https://www.microsoft.com/security/blog/)
 
 
-## Agency
+## More
 
 [European Union Agency for Cybersecurity](https://www.enisa.europa.eu/)
 
@@ -31,4 +31,4 @@ nav_order: 3
 
 [CSRC](https://csrc.nist.gov/)
 
-[NIST Security](https://www.nist.gov/cybersecurity)
+[NIST CyberSecurity Framework](https://www.nist.gov/cybersecurity)
