@@ -23,6 +23,8 @@ nav_order: 3
 
 ## More
 
+[OWASP](https://owasp.org/)
+
 [European Union Agency for Cybersecurity](https://www.enisa.europa.eu/)
 
 [CISA](https://www.cisa.gov)

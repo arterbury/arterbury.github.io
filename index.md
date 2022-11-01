@@ -7,9 +7,8 @@ nav_order: 1
 # arterbury
 
 ## Learning
-[Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
 
-[Microsoft Certifications](https://docs.microsoft.com/en-us/learn/certifications/)
+[Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
 
 [NRK](https://www.nrk.no/)
 
