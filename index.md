@@ -14,3 +14,5 @@ nav_order: 1
 
 [Klar Tale](https://www.klartale.no/)
 
+[DW](https://www.dw.com/)
+
