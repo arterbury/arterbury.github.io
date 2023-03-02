@@ -21,9 +21,5 @@ nav_order: 2
 
 ## Leisure
 
-[RPGFan](https://rpgfan.com)
-
-[Nintendo Life](https://www.nintendolife.com/)
-
 [Pinterest](https://pinterest.com)
 
