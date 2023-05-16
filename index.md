@@ -16,3 +16,7 @@ nav_order: 1
 
 [DW](https://www.dw.com/)
 
+[The Local](https://www.thelocal.no/)
+
+[News in English](https://www.newsinenglish.no/)
+
